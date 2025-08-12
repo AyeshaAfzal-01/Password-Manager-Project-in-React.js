@@ -3,7 +3,7 @@
 
 Lockify is a basic password manager built using React.js. It allows users to store and manage their passwords securely with a simple and user-friendly interface.
 
-### Features
+#### Features
 
 - Store passwords in local storage
 - Copy passwords to clipboard
