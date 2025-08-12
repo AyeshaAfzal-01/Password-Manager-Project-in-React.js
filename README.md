@@ -10,12 +10,12 @@ Lockify is a basic password manager built using React.js. It allows users to sto
 - Delete Passwords
 - Edit passwords
   
-# Technologies Used
+#### Technologies Used
 
 - Frontend: React.js
 - Tailwind css
 - Storage: LocalStorage
 
-#  Contact
+####  Contact
 
 For any inquiries or support, contact Ayesha Afzal at ayesha.taisee1@gmail.com
